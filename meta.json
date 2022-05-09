@@ -7,7 +7,7 @@
   "license": "LGPLv3",
   "web": "https://github.com/juancarlospaco/nim-bytes2human",
   "refs": [
-    "fatal: unable to access 'https://github.com/juancarlospaco/nim-bytes2human/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/juancarlospaco/nim-bytes2human/': SSL connection timeout",
     ""
   ],
   "heads": []
